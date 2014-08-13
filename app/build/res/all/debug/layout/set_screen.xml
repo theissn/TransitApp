@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/destination"
+        android:layout_marginTop="48dp"
+        android:layout_marginLeft="32dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/distance"
+        android:layout_marginTop="33dp"
+        android:layout_below="@+id/destination"
+        android:layout_alignLeft="@+id/destination"
+        android:layout_alignStart="@+id/destination" />
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:hint="Indtast afstand"
+        android:inputType="number"
+        android:layout_below="@+id/textView2"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_marginLeft="-2dp" />
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Start"
+        android:textColor="#FFF"
+        android:id="@+id/startTracking"
+        android:background="@drawable/buttonshape"
+        android:layout_marginTop="34dp"
+        android:layout_below="@+id/editText"
+        android:layout_alignLeft="@+id/editText"
+        android:layout_alignStart="@+id/editText" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFF"
+        android:text="Tilføj til foretrukne"
+        android:id="@+id/addFavorite"
+        android:background="@drawable/buttonshape"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/startTracking"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="meter"
+        android:textSize="18dp"
+        android:id="@+id/textView"
+        android:layout_alignBottom="@+id/editText"
+        android:layout_toRightOf="@+id/editText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/distance"
+        android:layout_alignLeft="@+id/distance"
+        android:layout_alignStart="@+id/distance"
+        android:layout_marginTop="38dp"
+        android:text="Hvor mange meter før destinationen vil du vækkes?" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Marc/Dropbox/Skole/2S/Infotek/Eksamen/IftekProjekt/IftekProjekt/app/src/main/res/layout/set_screen.xml -->

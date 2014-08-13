@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res" >
+            <file
+                name="buttonshape"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable\buttonshape.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pressed_background_stylingactionbar"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable\pressed_background_stylingactionbar.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="selectable_background_stylingactionbar"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable\selectable_background_stylingactionbar.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-hdpi\ic_action_search.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-hdpi\menu_dropdown_panel.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-mdpi\ic_action_search.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-mdpi\menu_dropdown_panel.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-xhdpi\ic_action_search.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-xhdpi\menu_dropdown_panel.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_action_search"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-xxhdpi\ic_action_search.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="menu_dropdown_panel"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-xxhdpi\menu_dropdown_panel.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\drawable-xxxhdpi\ic_launcher.png"
+                qualifiers="xxxhdpi"
+                type="drawable" />
+            <file
+                name="activity_alarm"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\layout\activity_alarm.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_search_results"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\layout\activity_search_results.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_main"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\layout\fragment_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="running"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\layout\running.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="settings_screen"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\layout\settings_screen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="set_screen"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\layout\set_screen.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Indstillinger
+                </string>
+                <string name="app_name" >Transit Mate
+                </string>
+                <string name="settings_screen_name" >Indstillinger
+                </string>
+                <string name="title_activity_alarm" >Alarm
+                </string>
+                <string name="change_tone" >Alarm
+                </string>
+                <string name="action_search" >Søg
+                </string>
+                <string name="set_screen_name" >Indstil
+                </string>
+            </file>
+            <file
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="MyActionBar.MenuTextStyle"
+                    parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Menu" >
+                    <item name="android:textColor">
+#F0F
+                    </item>
+                    <item name="android:textStyle">
+bold
+                    </item>
+                    <item name="android:textSize">
+24dp
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+
+                    <item name="android:actionBarStyle">
+@style/Theme.AppTheme.ActionBar
+                    </item>
+                    <item name="android:popupMenuStyle">
+@style/AppTheme.PopupMenu
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.AppTheme.ActionBar"
+                    parent="@android:style/Widget.Holo.ActionBar" >
+                    <item name="android:background">
+#4A4AEF
+                    </item>
+                    <item name="android:titleTextStyle">
+@style/AppTheme.ActionBar.Text
+                    </item>
+                    <item name="android:actionMenuTextAppearance">
+@style/MyActionBar.MenuTextStyle
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme.PopupMenu"
+                    parent="@android:Widget.Holo.Light.ListPopupWindow" >
+                    <item name="android:popupBackground">
+@drawable/menu_dropdown_panel
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme.ActionBar.Text"
+                    parent="@android:style/TextAppearance" >
+                    <item name="android:textColor">
+#FFF
+                    </item>
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+            <file
+                name="searchable"
+                path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\main\res\xml\searchable.xml"
+                qualifiers=""
+                type="xml" />
+        </source>
+        <source path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\build\res\rs\debug" />
+        <source path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\build\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Marc\Dropbox\Skole\2S\Infotek\Eksamen\IftekProjekt\IftekProjekt\app\src\debug\res" />
+    </dataSet>
+
+</merger>

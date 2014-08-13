@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text=""
+        android:id="@+id/destination"
+        android:layout_marginTop="48dp"
+        android:layout_marginLeft="32dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text=""
+        android:id="@+id/time"
+        android:layout_below="@+id/destination"
+        android:layout_alignLeft="@+id/destination"
+        android:layout_alignStart="@+id/destination"
+        android:layout_marginTop="33dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text=""
+        android:id="@+id/distance"
+        android:layout_marginTop="33dp"
+        android:layout_below="@+id/time"
+        android:layout_alignLeft="@+id/time"
+        android:layout_alignStart="@+id/time" />
+
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:hint="Ændr afstand"
+        android:layout_below="@+id/distance"
+        android:layout_alignLeft="@+id/distance"
+        android:layout_alignStart="@+id/distance"
+        android:inputType="number" />
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Opdater"
+        android:textColor="#FFF"
+        android:id="@+id/update"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/editText"
+        android:background="@drawable/buttonshape"
+        android:layout_alignLeft="@+id/editText"
+        android:layout_alignStart="@+id/editText" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="meter"
+        android:textSize="18dp"
+        android:id="@+id/textView"
+        android:layout_alignBottom="@+id/editText"
+        android:layout_toRightOf="@+id/editText" />
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/Marc/Dropbox/Skole/2S/Infotek/Eksamen/IftekProjekt/IftekProjekt/app/src/main/res/layout/running.xml -->

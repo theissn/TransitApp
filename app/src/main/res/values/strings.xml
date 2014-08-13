@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Transit Mate</string>
+    <string name="action_settings">Indstillinger</string>
+    <string name="action_search">Søg</string>
+    <string name="set_screen_name">Indstil</string>
+    <string name="settings_screen_name">Indstillinger</string>
+    <string name="change_tone">Alarm</string>
+    <string name="title_activity_alarm">Alarm</string>
+
+</resources>
